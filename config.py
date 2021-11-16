@@ -1,0 +1,2 @@
+
+TOKEN = 'Your telegram token'
